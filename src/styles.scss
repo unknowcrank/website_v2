@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700;800&display=swap');
+
+root{
+    /*  Colors  */
+    --clr-primary: #d9b08c;
+    --clr-secondary: #151b26;
+    --clr-accent: #f2f2f2;  
+    
+    /* Spacing */
+    --spacing-xs: .25rem;
+    --spacing-s: .5rem;
+    --spacing-m: .75rem;
+    --spacing-l: 1rem;
+    --spacing-xl: 2rem;
+}
